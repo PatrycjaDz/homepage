@@ -1,0 +1,16 @@
+body {
+	background: #fefefe;
+}
+h1 {
+    color:brown;
+}
+
+h2 {
+    color: #1460aa;
+}
+h3 {
+    color:rgb(218, 112, 73);
+}
+section {
+    background: rgba(223, 205, 200, 0.8);
+}
